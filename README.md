@@ -21,3 +21,4 @@ This is my personal portfolio website showcasing my:
 
 ## Contact
 Email: jampalasanthosh2005@gmail.com
+[View Portfolio Screenshot](screenshot.pdf)
